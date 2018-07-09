@@ -1,0 +1,8 @@
+{
+  "name": "ConquerorsCryptoFlag",
+  "app_id": "c270364c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
